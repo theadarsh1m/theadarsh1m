@@ -33,6 +33,12 @@
 - GitHub
 - Bootstrap
 
+## 🧠 Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/2k23_cs2312635)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/theadarsh/practice/)
+
 ---
 
 ## 📊 GitHub Stats:

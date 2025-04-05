@@ -4,7 +4,7 @@
 
 ---
 
-🔭 I’m currently working on: a student utility startup – **Make it Easy**  
+🔭 I’m currently working on: a campus map – **Map My PSIT**  
 🌱 I’m currently learning: Advanced DSA and System Design  
 💌 How to reach me: 2k23.cs2312635@gmail.com
 

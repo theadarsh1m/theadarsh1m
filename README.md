@@ -37,8 +37,8 @@
 
 ## 📊 GitHub Stats:
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adarshsachan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshsachan&layout=compact&theme=radical)
+![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theadarsh1m&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theadarsh1m&layout=compact&theme=radical)
 
 ---
 

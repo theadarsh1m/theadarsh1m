@@ -8,6 +8,10 @@
 🌱 I’m currently learning: Advanced DSA and System Design  
 💌 How to reach me: 2k23.cs2312635@gmail.com
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Full+Stack+Learner;ML+Explorer;Be+Better+Everyday" alt="Typing SVG" />
+</p>
+
 ---
 
 ## 🌐 Connect with me:

@@ -1,6 +1,6 @@
 # Hi 👋, I'm Adarsh Sachan
 
-🎓 I'm a BTech CSE student at PSIT, Kanpur, passionate about Web Development and Data Structures & Algorithms. I enjoy turning ideas into reality with clean code, elegant designs, and logical solutions.
+🎓 I'm a BTech CSE student at PSIT, Kanpur, passionate about Web Development (MERN Stack) and Data Structures & Algorithms. I enjoy turning ideas into reality with clean code, elegant designs, and logical solutions.
 
 ---
 

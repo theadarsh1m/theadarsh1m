@@ -31,11 +31,14 @@
 - HTML5
 - CSS3
 - JavaScript
+- Node.js
+- Express.js
 
 ### Tools & Frameworks
 - Git
 - GitHub
 - Bootstrap
+- MongoDB
 
 ## 🧠 Stats
 

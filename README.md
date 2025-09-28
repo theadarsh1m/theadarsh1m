@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Adarsh Sachan
 
 <p align="center">
-  <img src="https://media.giphy.com/media/LmN8xmPjGz9QvF3p8G/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </p>
 
 🎓 I'm a BTech CSE student at PSIT, Kanpur, deeply passionate about **Web Development (MERN Stack)** and **Data Structures & Algorithms**. I thrive on transforming innovative ideas into reality through clean, efficient code, elegant designs, and logical problem-solving.

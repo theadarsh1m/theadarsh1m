@@ -1,104 +1,134 @@
-# Hi 👋, I'm Adarsh Sachan
+# Hi there 👋, I'm Adarsh Sachan
 
-🎓 I'm a BTech CSE student at PSIT, Kanpur, passionate about Web Development (MERN Stack) and Data Structures & Algorithms. I enjoy turning ideas into reality with clean code, elegant designs, and logical solutions.
+<p align="center">
+  <img src="https://media.giphy.com/media/LmN8xmPjGz9QvF3p8G/giphy.gif" width="30"/>
+</p>
+
+🎓 I'm a BTech CSE student at PSIT, Kanpur, deeply passionate about **Web Development (MERN Stack)** and **Data Structures & Algorithms**. I thrive on transforming innovative ideas into reality through clean, efficient code, elegant designs, and logical problem-solving.
 
 ---
 
-🔭 I’m currently working on: a campus map – **Map My PSIT**  
-🌱 I’m currently learning: Advanced DSA and System Design  
-💌 How to reach me: 2k23.cs2312635@gmail.com
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Web+Developer;Full+Stack+Learner;ML+Explorer;Be+Better+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=2000&pause=1000&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;ML+Explorer" alt="Typing SVG" />
 </p>
+
+---
+
+### 🌱 What I'm currently up to:
+
+-   🔭 I’m currently working on: **MediVault** - A database and ML-powered medical history platform for patients, doctors, and hospitals. 🏥
+-   📚 I’m currently learning: Advanced DSA and System Design. 🧠
+-   💬 Ask me about: MERN Stack, DSA, System Design, or anything tech-related!
+-   ⚡ Fun fact: I enjoy solving puzzles and competitive programming in my free time.
 
 ---
 
 ## 🌐 Connect with me:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarshsachan01/)
-
----
-
-## 💻 Tech Stack:
-
-Here are some of the technologies I work with:
-
-**Frontend Development:**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/adarshsachan01/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-</p>
-
-**Backend Development:**
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-</p>
-
-**Programming Languages:**
-<p align="left">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-</p>
-
-**Tools & Technologies:**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="vscode" width="40" height="40"/>
-  </a>
-   <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+  <a href="mailto:2k23.cs2312635@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
 </p>
 
 ---
 
-## 🧠 Stats
+## 🚀 My Skillset:
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest)
-[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/2k23_cs2312635)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/theadarsh/practice/)
+<p align="center">
+  <table style="width:100%; border:none;">
+    <tr style="border:none;">
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" /><br>C
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" width="40" height="40" alt="JavaScript" /><br>JavaScript
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=html" width="40" height="40" alt="HTML" /><br>HTML
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /><br>CSS
+      </td>
+    </tr>
+    <tr style="border:none;">
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" width="40" height="40" alt="React" /><br>React
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /><br>Bootstrap
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=express" width="40" height="40" alt="Express.js" /><br>Express.js
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="40" height="40" alt="MongoDB" /><br>MongoDB
+      </td>
+    </tr>
+    <tr style="border:none;">
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=git" width="40" height="40" alt="Git" /><br>Git
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" width="40" height="40" alt="GitHub" /><br>GitHub
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=vscode" width="40" height="40" alt="VS Code" /><br>VS Code
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=postman" width="40" height="40" alt="Postman" /><br>Postman
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="REST API" /><br>REST API
+      </td>
+    </tr>
+  </table>
+</p>
 
 ---
 
-## 📊 GitHub Stats:
+## 📈 My Competitive Programming Journey:
 
-![Adarsh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theadarsh1m&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theadarsh1m&layout=compact&theme=radical)
-
-![](https://komarev.com/ghpvc/?username=AdarshSachan&color=blue)
+<p align="center">
+  <a href="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest" target="_blank">
+    <img src="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" style="width: 100%; max-width: 400px;"/>
+  </a>
+  <br/>
+  <a href="https://www.hackerrank.com/2k23_cs2312635" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/theadarsh/practice/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  </a>
+</p>
 
 ---
 
-⭐️ Feel free to explore my repositories and drop a ⭐️ if you find something useful!
+## 📊 GitHub Contributions & Stats:
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=theadarsh1m&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Adarsh's GitHub Stats" style="width: 100%; max-width: 450px;"/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theadarsh1m&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 450px;"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.demolab.com/?user=theadarsh1m&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 450px;"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=theadarsh1m&color=blue" alt="Profile Views"/>
+</p>
+
+---
+
+⭐️ Feel free to explore my repositories and drop a ⭐️ if you find something useful or interesting\! Your feedback is always welcome.

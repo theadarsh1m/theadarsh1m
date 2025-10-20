@@ -96,6 +96,11 @@
 
 ---
 
+### 🐾 Visitor
+![:theadarsh1m](https://count.getloli.com/get/@:theadarsh1m)
+
+---
+
 ## 📈 My Competitive Programming Journey:
 
 <p align="center">
@@ -113,21 +118,9 @@
 
 ---
 
-## 📊 GitHub Contributions & Stats:
+### ⚡ Status
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theadarsh1m&theme=github)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=theadarsh1m&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="Adarsh's GitHub Stats" style="width: 100%; max-width: 450px;"/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theadarsh1m&layout=compact&theme=radical&hide_border=true" alt="Top Languages" style="width: 100%; max-width: 450px;"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.demolab.com/?user=theadarsh1m&theme=radical&hide_border=true" alt="GitHub Streak" style="width: 100%; max-width: 450px;"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=theadarsh1m&color=blue" alt="Profile Views"/>
-</p>
 
 ---
 

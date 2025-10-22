@@ -16,10 +16,10 @@
 
 ### 🌱 What I'm currently up to:
 
--   🔭 I’m currently working on: **MediVault** - A database and ML-powered medical history platform for patients, doctors, and hospitals. 🏥
--   📚 I’m currently learning: Advanced DSA and System Design. 🧠
--   💬 Ask me about: MERN Stack, DSA, System Design, or anything tech-related!
--   ⚡ Fun fact: I enjoy solving puzzles and competitive programming in my free time.
+- 🔭 Currently building: MediVault — an AI and database-driven medical record platform connecting patients, doctors, and hospitals securely. 🏥
+- 📚 Currently learning: Advanced Data Structures & Algorithms and System Design to strengthen backend and scalability knowledge. 🧠
+- 💬 Ask me about: MERN Stack Development, DSA, System Design, or any tech-related topic!
+- ⚡ Fun fact: I love tackling brain-teasing problems and enjoy competitive programming challenges in my free time.
 
 ---
 

@@ -42,7 +42,7 @@
   <table style="width:100%; border:none;">
     <tr style="border:none;">
       <td align="center" width="96" style="border:none; padding:10px;">
-        <img src="https://skillicons.dev/icons?i=java" width="40" height="40" alt="Java" /><br>Java
+        <img src="https://techstack-generator.vercel.app/java-icon.svg" width="40" height="40" alt="Java" /><br>Java
       </td>
       <td align="center" width="96" style="border:none; padding:10px;">
         <img src="https://skillicons.dev/icons?i=c" width="40" height="40" alt="C" /><br>C
@@ -63,6 +63,9 @@
       </td>
       <td align="center" width="96" style="border:none; padding:10px;">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="40" height="40" alt="Bootstrap" /><br>Bootstrap
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=tailwind" width="40" height="40" alt="Bootstrap" /><br>Tailwind
       </td>
       <td align="center" width="96" style="border:none; padding:10px;">
         <img src="https://skillicons.dev/icons?i=nodejs" width="40" height="40" alt="Node.js" /><br>Node.js
@@ -89,6 +92,9 @@
       </td>
       <td align="center" width="96" style="border:none; padding:10px;">
         <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="40" height="40" alt="REST API" /><br>REST API
+      </td>
+      <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" width="40" height="40" alt="REST API" /><br>Redux
       </td>
     </tr>
   </table>

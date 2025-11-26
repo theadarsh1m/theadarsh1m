@@ -56,6 +56,9 @@
       <td align="center" width="96" style="border:none; padding:10px;">
         <img src="https://skillicons.dev/icons?i=css" width="40" height="40" alt="CSS" /><br>CSS
       </td>
+       <td align="center" width="96" style="border:none; padding:10px;">
+        <img src="https://skillicons.dev/icons?i=firebase" width="40" height="40" alt="Postman" /><br>Firebase
+      </td>
     </tr>
     <tr style="border:none;">
       <td align="center" width="96" style="border:none; padding:10px;">

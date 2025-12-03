@@ -127,6 +127,13 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/theadarsh1m/theadarsh1m/output/github-snake-dark.svg" alt="snake gif" />
+</div>
+
+
+---
+
 ### ⚡ Status
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=theadarsh1m&theme=github)
 

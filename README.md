@@ -110,20 +110,28 @@
 
 ---
 
-## 📈 My Competitive Programming Journey:
+<h2 align="center">📈 Competitive Programming Stats</h2>
 
 <p align="center">
   <a href="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats" style="width: 100%; max-width: 400px;"/>
+    <img 
+      src="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest" 
+      alt="LeetCode Stats"
+      width="420"
+      style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"
+    />
   </a>
-  <br/>
-  <a href="https://www.hackerrank.com/2k23_cs2312635" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank Badge"/>
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/theadarsh/practice/" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks Badge"/>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/theadarsh1m" target="_blank">
+    <img 
+      src="https://codeforces-readme-stats.vercel.app/api/card?username=theadarsh1m"
+      alt="Codeforces Stats"
+      width="420"
+      style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"
+    />
   </a>
 </p>
+
 
 ---
 

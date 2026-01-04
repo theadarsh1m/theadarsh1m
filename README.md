@@ -19,7 +19,7 @@
 - 🔭 Currently building: MediVault — an AI and database-driven medical record platform connecting patients, doctors, and hospitals securely. 🏥
 - 📚 Currently learning: Advanced Data Structures & Algorithms and System Design to strengthen backend and scalability knowledge. 🧠
 - 💬 Ask me about: MERN Stack Development, DSA, System Design, or any tech-related topic!
-- ⚡ Fun fact: I love tackling brain-teasing problems and enjoy competitive programming challenges in my free time.
+- ⚡ Fun fact: I love solving competitive programming challenges and enjoy playing guitar in my free time.
 
 ---
 
@@ -110,27 +110,32 @@
 
 ---
 
-<h2 align="center">📈 Competitive Programming Stats</h2>
+<h2 align="center">📈 Competitive Programming Journey</h2>
 
-<p align="center">
-  <a href="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest" target="_blank">
-    <img 
-      src="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=Baloo+Bhai&ext=contest" 
-      alt="LeetCode Stats"
-      width="420"
-      style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"
-    />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/theadarsh1m" target="_blank">
-    <img 
-      src="https://codeforces-readme-stats.vercel.app/api/card?username=theadarsh1m"
-      alt="Codeforces Stats"
-      width="420"
-      style="border-radius: 12px; box-shadow: 0 8px 20px rgba(0,0,0,0.3);"
-    />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark\&font=ovo\&ext=contest" target="\_blank">
+        <img
+          src="https://leetcard.jacoblin.cool/theadarsh1m?theme=dark&font=ovo&ext=contest"
+          alt="LeetCode Stats"
+          width="375"
+          style="border-radius: 12px;"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://codeforces.com/profile/theadarsh1m" target="\_blank">
+        <img
+          src="https://codeforces-readme-stats.vercel.app/api/card?username=theadarsh1m"
+          alt="Codeforces Stats"
+          width="375"
+          style="border-radius: 12px;"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
 
 
 ---
